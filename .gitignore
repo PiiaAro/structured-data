@@ -12,3 +12,5 @@ pom.xml
 .clj-kondo
 /.lsp
 .lsp
+.calva
+/.calva
